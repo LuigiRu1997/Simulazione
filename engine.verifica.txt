@@ -1,0 +1,6 @@
+Potenza massima a quota 0:		   120
+Esponente variazione potenza con la quota: 1.2
+rpm minimo:				   1500
+rpm massimo:				   2700
+Rmeccanico della trasmissione:		   1
+Consumo specifico:			   7.45e-008

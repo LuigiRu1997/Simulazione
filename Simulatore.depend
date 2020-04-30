@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1587492446 source:c:\users\luigi\desktop\simulatore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"variabili.h"
+	"lettura_dba.h"
+	"lettura_propeller.h"
+	"lettura_engine.h"
+	"interpol.h"
+	"atmosfera.h"
+	"routh2.h"
+
+1587145839 c:\users\luigi\desktop\simulatore\variabili.h
+
+1587146198 c:\users\luigi\desktop\simulatore\lettura_dba.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"variabili.h"
+
+1586054422 c:\users\luigi\desktop\simulatore\lettura_propeller.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"variabili.h"
+
+1586172594 c:\users\luigi\desktop\simulatore\lettura_engine.h
+	"variabili.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1587208223 c:\users\luigi\desktop\simulatore\interpol.h
+	<stdio.h>
+	<stdlib.h>
+
+1586130570 c:\users\luigi\desktop\simulatore\atmosfera.h
+	"variabili.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1586953049 source:c:\users\luigi\desktop\simulatore\verifica.c
+	<stdio.h>
+	<stdlib.h>
+	"variabili.h"
+	"lettura_dba.h"
+	"lettura_propeller.h"
+	"lettura_engine.h"
+
+1587543388 c:\users\luigi\desktop\simulatore\routh2.h
+	<stdio.h>
+	<stdlib.h>
+	"variabili.h"
+	"interpol.h"
+	"lettura_dba.h"
+	"lettura_propeller.h"
+	<math.h>
+
+1587146110 c:\users\luigi\desktop\simulatore\routh.h
+
